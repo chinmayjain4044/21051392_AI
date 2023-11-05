@@ -2,8 +2,8 @@
 
 
 
-Report: Implementation of Genetic Algorithm for Image Optimization
-
+<h1><b><center>Report: Implementation of Genetic Algorithm for Image Optimization
+</center></b></h1>
 1. Initialization:
    - Initialization serves as the fundamental step in any genetic algorithm. In this code, it is facilitated through the setup of a graphical user interface (GUI) using the Swing framework. A JFrame is created, providing a window for the GA to operate within.
    - Subsequently, a JFileChooser dialog is presented to the user, enabling them to select a target image for optimization. This target image represents the ideal outcome to which the GA aims to converge.
@@ -37,15 +37,30 @@ In this report, we've explored the implementation of a Genetic Algorithm (GA) fo
 
 
 
-Here are the steps to run the provided Java code for image optimization using a Genetic Algorithm:
+<h1><b>
+Here are the steps to run the provided Java code for image optimization using a Genetic Algorithm:</b></h1>
+
 Step 1: Set up your Java development environment with the Java Development Kit (JDK) installed.
+
 Step 2: Create a Java class and paste the provided code into it.
+
 Step 3:Compile the Java code using the `javac` command:
+
+javac GeneticAlgorithmImageOptimization.java
+
 Step 4: Run the program using the `java` command:
+
+java GeneticAlgorithmImageOptimization
+
+
 Step 5: Select a target image using the GUI.
+
 Step 6:Let the Genetic Algorithm run for 100 generations.
+
 Step 7: View the optimized result in the GUI.
+
 Step 8: Close the GUI window to exit the program.
+
 First Output:
 
 <img width="960" alt="1" src="https://github.com/chinmayjain4044/21051392_AI/assets/149926870/8bbd634e-dbab-41fe-bd04-bf3106df1f30">
